@@ -1,0 +1,250 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Álbum de Fotos</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+
+<body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-secondary">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">
+                <img src="images\logo.png" alt="Logo do Álbum DIW" width="80" height="80">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Início</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#creditos">Sobre</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Álbuns</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#creditos">Contato</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <h1 class="destaque-title">Destaques</h1>
+        <!-- Carrossel de Destaques -->
+        <div id="carouselDestaques" class="carousel slide custom-carousel" data-bs-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-bs-target="#carouselDestaques" data-bs-slide-to="0" class="active"></li>
+                <li data-bs-target="#carouselDestaques" data-bs-slide-to="1"></li>
+                <li data-bs-target="#carouselDestaques" data-bs-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="Capa Álbuns\Kyoto.jpg" class="d-block w-100 img-fluid" alt="Imagem 1">
+                </div>
+                <div class="carousel-item">
+                    <img src="Capa Álbuns\Kumamoto.jpg" class="d-block w-100 img-fluid" alt="Imagem 2">
+                </div>
+                <div class="carousel-item">
+                    <img src="Capa Álbuns\Wakayama.jpg" class="d-block w-100 img-fluid" alt="Imagem 3">
+                </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselDestaques" role="button" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Anterior</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselDestaques" role="button" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Próximo</span>
+            </a>
+        </div>
+    </div>
+
+    <div class="container">
+        <h1 class="mapa-title">Mapa</h1>
+        <!-- Mapa -->
+        <div class="map-container">
+            <div id="map"></div>
+        </div>
+    </div>
+
+    <div class="container">
+        <h1 class="lista-album">Lista de Álbuns</h1>
+        <div class="row" id="cards">
+        </div>
+    </div>
+    
+    <!--Créditos -->
+    <div class="container">
+        <h1 class="creditos" id="creditos">Créditos</h1>
+        <footer class="creditos">
+            <div class="sobre">
+                <h3 class="text-left">Sobre</h3>
+                <p>
+                    Gustavo Anselmo, estudante de Sistemas de Informação pela PUC Minas - São Gabriel. Apaixonado por
+                    músicas e jogos. Cursou 7 períodos de química pela UFMG, contudo, decidiu migrar para a área de
+                    tecnologia por ser algo que ele já trabalhava antes, e se sente mais realizado.
+                </p>
+            </div>
+            <div class="container">
+                <div class="autoria">
+                    <img class="sua-foto img-fluid" src="images\eu.png" alt="Minha Foto">
+                    <div>
+                        <div>
+                            <p><strong>Aluno:</strong> Gustavo Anselmo Santos Silva</p>
+                            <p><strong>Turma:</strong> SI - Manhã</p>
+                            <p><strong>Curso:</strong> Sistemas de Informação</p>
+                        </div>
+                        <div class="redes">
+                            <h3>Redes</h3>
+                            <a target="_blank" href="https://www.instagram.com/anselm_gustavo/"><i
+                                    class="bi bi-instagram"></i></a>
+                            <a target="_blank" href="https://www.facebook.com/gustavoanselmo.santossilva/"><i
+                                    class="bi bi-facebook"></i></a>
+                            <a target="_blank" href="https://www.linkedin.com/in/gustavo-anselmo-5a550714a/"><i
+                                    class="bi bi-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.css" rel="stylesheet" />
+    <script>
+        // ----------------------------------------------
+        // Cria uma estrutura de dados com informações das unidades da PUC Minas
+        let unidadesPUC = [
+            {
+                id: 1,
+                descricao: "Hiroshima",
+                endereco: "1-10 Otemachi, Naka Ward, Hiroshima, 730-0051, Japão",
+                cidade: "Japão",
+                latlong: [132.44788081197566, 34.42037531948991],
+                url: "https://www.japan.travel/pt/world-heritage/hiroshima-peace-memorial/",
+                cor: "purple",
+            },
+            {
+                id: 2,
+                descricao: "Kagawa",
+                endereco: "1312-7 Konanchooka, Takamatsu, Kagawa 761-1401, Japão",
+                cidade: "Japão",
+                latlong: [134.01861218222285, 34.219417991689156],
+                url: "https://www.japan.travel/pt/destinations/shikoku/kagawa/",
+                cor: "red",
+            },
+            {
+                id: 3,
+                descricao: "Kumamoto",
+                endereco: "1-1 Honmaru, Chuo Ward, Kumamoto, 860-0002, Japão",
+                cidade: "Japão",
+                latlong: [130.70582276953763, 32.80624901780128,],
+                url: "https://www.japan-guide.com/e/e4500.html",
+                cor: "blue",
+            },
+            {
+                id: 4,
+                descricao: "Kyoto",
+                endereco: "721-1 Higashishiokojicho, Shimogyo Ward, Kyoto, 600-8216, Japão",
+                cidade: "Japão",
+                latlong: [135.76019105938582, 34.99313415122834],
+                url: "https://www.japan-guide.com/e/e2158.html",
+                cor: "yellow",
+            },
+            {
+                id: 5,
+                descricao: "Miyazaki",
+                endereco: "Koshigasako-6146 Shimokitakatamachi, Miyazaki, 880-0035, Japão",
+                cidade: "Japão",
+                latlong: [131.41899508296243, 32.01181720662431],
+                url: "https://www.japan-guide.com/e/e8000.html",
+                cor: "pink",
+            },
+            {
+                id: 6,
+                descricao: "Nagano",
+                endereco: "4 9 1, Motoyoshicho Nagano, 380-0851, Japão",
+                cidade: "Japão",
+                latlong: [138.18774538290282, 36.661814835559355],
+                url: "https://www.japan-guide.com/e/e6000.html",
+                cor: "green",
+            },
+            {
+                id: 7,
+                descricao: "Shiga",
+                endereco: "1091 Oroshimocho, Kusatsu, Shiga 525-0001, Japão",
+                cidade: "Japão",
+                latlong: [135.93492191166723, 35.0741779777191],
+                url: "https://www.japan.travel/pt/destinations/kansai/shiga/",
+                cor: "black",
+            },
+            {
+                id: 8,
+                descricao: "Wakayama",
+                endereco: "Japão, 〒640-8146 Wakayama, Ichibancho, 3",
+                cidade: "Japão",
+                latlong: [135.17146798094487, 34.22789084630953],
+                url: "https://www.japan.travel/pt/destinations/kansai/wakayama/",
+                cor: "brown",
+            },
+        ];
+
+        // --------------------------------------------------
+        // Cria o mapa baseado na API Mapbox e adiciona no
+        // elemento de id: map
+        // --------------------------------------------------
+
+        // ----------------------------------------------
+        // Cria o mapa e adiciona no elemento de id: map
+        const centralLatLong = [139.7453577943355, 35.65877225152959];
+
+        // ----------------------------------------------
+        // Crie uma conta no Mapbox e adicione sua accessToken
+        // na linha abaixo
+        mapboxgl.accessToken =
+            "pk.eyJ1IjoiZ3VzdGF2b3Byb2dyYW0iLCJhIjoiY2xwb2tqZzRwMGRsYjJtcXRtMDVwNDk3aiJ9.zS89Llk3jh9bSXx4AqdT4w";
+        const map = new mapboxgl.Map({
+            container: "map",
+            style: "mapbox://styles/mapbox/streets-v12",
+            center: centralLatLong,
+            zoom: 4,
+        });
+
+        // ----------------------------------------------
+        // Adiciona marcadores para unidades da PUC Minas
+        unidadesPUC.forEach((uni) => {
+            var popup = new mapboxgl.Popup({ offset: 25 })
+                .setHTML(`<h3><a href="${uni.url}">${uni.descricao}</a></h3><br>
+                                ${uni.endereco} <br> ${uni.cidade}`);
+            const marker = new mapboxgl.Marker({ color: uni.cor })
+                .setLngLat(uni.latlong)
+                .setPopup(popup)
+                .addTo(map);
+        });
+    </script>
+
+
+    <!--Script dos álbuns-->
+    <script src="album.js"></script>
+</body>
+
+
+</html>
