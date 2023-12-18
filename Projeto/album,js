@@ -1,0 +1,123 @@
+let albuns = "https://jsonserver.gustavoprograma.repl.co/albuns";
+let albunsData;
+
+carregaAlbuns()
+
+
+async function carregaAlbuns() {
+    try {
+        const response = await fetch(albuns);
+        albunsData = await response.json();
+
+        let str = "";
+        for (let i = 0; i < albunsData.length; i++) {
+            str += ` 
+            <div class="col-md-3 album">
+                <h3 class="text-center">${albunsData[i].titulo}</h3>
+                <img class="album-cover img-fluid" src="${albunsData[i].URL}" alt="Álbum">
+                <p class="album-description">${albunsData[i].descricao}</p>
+                <a class="btn btn-primary" href="./tela2.html?id=${albunsData[i].id}">Ver Álbum</a>
+                <a class="btn btn-outline-danger btn-favorito" data-album-id="${albunsData[i].id}"><i class="bi bi-heart"></i> Favorito</a>
+            </div>`;
+        }
+        document.querySelector("#cards").innerHTML = str;
+    } catch (error) {
+        console.error('Erro ao carregar os álbuns:', error);
+    }
+}
+
+let fotosURL = "https://jsonserver.gustavoprograma.repl.co/fotos";
+let fotos;
+let params = new URLSearchParams(location.search);
+let id_Album = params.get('id');
+
+carregaFotos()
+
+async function carregaFotos() {
+    try {
+        const response = await fetch(fotosURL);
+        fotos = await response.json();
+
+
+        let strRead = "";
+        for (let i = 0; i < albunsData.length; i++) {
+            if (albunsData[i].id == id_Album) {
+                strRead += `
+                <h1 class="destaque-title">${albunsData[i].titulo}</h1>
+        <section id="descricao">
+            <img class="img-2tela" src="${albunsData[i].URL}" alt="Kagawa">
+            <div id="infos">
+                <div>
+                    <h3>Descrição</h3>
+                    <p>${albunsData[i].descricao}</p>
+                </div>
+                <div id="infos2">
+                    <div>
+                        <h3>Localização</h3>
+                        <p>Japão</p>
+                    </div>
+                    <div>
+                        <h3>Data de Registro</h3>
+                        <p>${albunsData[i].data}</p>
+                    </div>
+                </div>
+            </div>
+        </section>`
+            }
+        }
+
+        document.querySelector("#iniciotela2").innerHTML = strRead;
+
+        let str2 = "";
+        for (let i = 0; i < fotos.length; i++) {
+            if (fotos[i].idAlbum == id_Album) {
+                str2 += `
+                <div class="col-md-3 album">
+            <img class="album-cover img-fluid" src="${fotos[i].URL}" alt="Foto">
+            <button type="button" class="btn btn-primary" id="butao" data-bs-toggle="modal" data-bs-target="#exampleModal${fotos[i].id}">
+                 Ver Foto
+            </button>
+                </div>
+                
+                <div class="modal fade" id="exampleModal${fotos[i].id}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <img src="${fotos[i].URL}" alt="#">
+                    <p id="img-descricao">${fotos[i].descricao}</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+                </div>
+            </div>
+        </div>
+    </div>`;
+            }
+        }
+        document.querySelector("#foto").innerHTML = str2;
+    } catch (error) {
+        console.error('Erro ao carregar fotos:', error);
+    }
+}
+
+
+        var exampleModal = document.getElementById('exampleModal')
+        exampleModal.addEventListener('show.bs.modal', function (event) {
+            // Button that triggered the modal
+            var button = event.relatedTarget
+            // Extract info from data-bs-* attributes
+            var recipient = button.getAttribute('data-bs-whatever')
+            // If necessary, you could initiate an AJAX request here
+            // and then do the updating in a callback.
+            //
+            // Update the modal's content.
+            var modalTitle = exampleModal.querySelector('.modal-title')
+            var modalBodyInput = exampleModal.querySelector('.modal-body input')
+
+            modalTitle.textContent = 'New message to ' + recipient
+            modalBodyInput.value = recipient
+        })
