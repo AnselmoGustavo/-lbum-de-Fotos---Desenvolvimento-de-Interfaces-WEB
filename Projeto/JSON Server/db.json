@@ -1,0 +1,653 @@
+{
+  "albuns": [
+    {
+      "id": 1,
+      "titulo": "Hiroshima",
+      "descricao": "Uma prefeitura que se recusa a ser definida por tragédias.",
+      "latlong": "Sincere@april.biz",
+      "data": "02/12/2023",
+      "URL": "https://i.pinimg.com/736x/92/20/e9/9220e931e3b606199306aa245484184d.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Kagawa",
+      "descricao": "Arte moderna, vistas para o mar e massas deliciosas",
+      "latlong": "Sincere@april.biz",
+      "data": "02/12/2023",
+      "URL": "https://i.pinimg.com/736x/ea/34/27/ea342711e72fdfbeda51ef9542d52261.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Kumamoto",
+      "descricao": "Moldada por vulcões",
+      "latlong": "Sincere@april.biz",
+      "data": "02/12/2023",
+      "URL": "https://i.pinimg.com/736x/b2/f9/ab/b2f9abbe680b3b3cfead94d49377ad43.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Kyoto",
+      "descricao": "Uma prefeitura que se recusa a ser definida por tragédias.",
+      "latlong": "Sincere@april.biz",
+      "data": "02/12/2023",
+      "URL": "https://i.pinimg.com/736x/37/bc/c1/37bcc11edd34897a1110fecc01c2538b.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "Miyazaki",
+      "descricao": "Trilhas vulcânicas, praias incríveis e a cachoeira mais linda do Japão",
+      "latlong": "Sincere@april.biz",
+      "data": "02/12/2023",
+      "URL": "https://i.pinimg.com/736x/73/dc/35/73dc35c26251abeb7b82dff1329dda61.jpg"
+    },
+    {
+      "id": 6,
+      "titulo": "Nagano",
+      "descricao": "Aventura no telhado do Japão",
+      "latlong": "Sincere@april.biz",
+      "data": "02/12/2023",
+      "URL": "https://i.pinimg.com/736x/be/28/2d/be282d3997d2e527e86b946292157858.jpg"
+    },
+    {
+      "id": 7,
+      "titulo": "Shiga",
+      "descricao": "Cultura e tranquilidade cercam o maior lago do Japão",
+      "latlong": "Sincere@april.biz",
+      "data": "02/12/2023",
+      "URL": "https://i.pinimg.com/736x/2c/ce/7a/2cce7a9702c993f2e605efc03ca2511d.jpg"
+    },
+    {
+      "id": 8,
+      "titulo": "Wakayma",
+      "descricao": "Revigore corpo e alma no coração espiritual do Japão",
+      "latlong": "Sincere@april.biz",
+      "data": "02/12/2023",
+      "URL": "https://i.pinimg.com/736x/23/f7/6c/23f76c6d8ecf300ef50610429d065aa1.jpg"
+    }
+  ],
+  
+  "fotos": [
+    {
+      "id": 1,
+      "idAlbum":1,
+      "URL": "https://i.pinimg.com/736x/92/20/e9/9220e931e3b606199306aa245484184d.jpg",
+      "descricao": "Uma província caracterizada pela paz"
+    },
+    {
+      "id": 2,
+      "idAlbum":1,
+      "URL": "https://www.intrepidtravel.com/adventures/wp-content/uploads/2017/03/rsz_japan-miyajima-floating-gate-torii-flood-e1490023918763-1170x658.jpg",
+      "descricao": "Itsukushima é uma ilha situada no Mar Interior, no município de Hatsukaichi, na província de Hiroshima, no Japão. Também é conhecida pelo nome de Miyajima e existe uma pequena cidade com o mesmo nome."
+    },
+    {
+      "id": 3,
+      "idAlbum":1,
+      "URL": "https://res.cloudinary.com/dbm1qiew0/image/upload/q_auto,f_auto,dpr_2.0,h_500/v1/s3bucket/images/4b8953b7-b5d8-46b9-b6b0-3b0f10942a68-1em5u6ba.jpg",
+      "descricao": "O Museu Memorial da Paz de Hiroshima é um testemunho vivo da resiliência e do vigor geral dos cidadãos de Hiroshima. Aqui, você aprenderá a história desse trágico evento e como os japoneses reconstruíram sua linda cidade. "
+    },
+    {
+      "id": 4,
+      "idAlbum":1,
+      "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/20181111_Hiroshima_Memorial_Cenotaph-1.jpg/1200px-20181111_Hiroshima_Memorial_Cenotaph-1.jpg",
+      "descricao": "Parque Memorial da Paz de Hiroshima é um parque memorial localizado no centro de Hiroshima no Japão, dedicado ao legado de Hiroshima como a primeira cidade do mundo a sofrer um ataque nuclear e as vítimas que foram atingidas de forma direta ou indireta pela bomba, cujas estimativas somam cerca de 166 000 pessoas."
+    },
+    {
+      "id": 5,
+      "idAlbum":1,
+      "URL": "https://www.japan-guide.com/g21/3403_02.jpg",
+      "descricao": "hukkei-en é um jardim japonês histórico na cidade de Hiroshima, Japão. O Museu de Arte da Prefeitura de Hiroshima está localizado ao lado do jardim."
+    },
+    {
+      "id": 6,
+      "idAlbum":1,
+      "URL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/65/65/6f/blick-in-die-ausstellungshalle.jpg?w=1200&h=-1&s=1",
+      "descricao": "Mazda Museum, museu que conta a história da Mazda, a fabricante de automóveis japoneses."
+    },
+    {
+      "id": 7,
+      "idAlbum":1,
+      "URL": "https://www.japan-guide.com/g21/3042_21.jpg",
+      "descricao": "O Castelo de Hiroshima, às vezes chamado de Castelo Carpa, é um castelo em Hiroshima que serviu de casa para o daimiô do feudo de Hiroshima. O castelo foi reconstruído na década de 1590, mas foi destruído pela bomba atômica em 6 de agosto de 1945. "
+    },
+    {
+      "id": 8,
+      "idAlbum":1,
+      "URL": "https://a0.cdn.japantravel.com/photo/14520-218316/1440x960!/hiroshima-onomichi-218316.jpg",
+      "descricao": "Onomichi é uma cidade japonesa localizada na província de Hiroshima. Em 2003 a cidade tinha uma população estimada em 91 952 habitantes e uma densidade populacional de 828,77 h/km². Tem uma área total de 110,95 km². Recebeu o estatuto de cidade a 1 de Abril de 1898."
+    },
+    {
+      "id": 9,
+      "idAlbum":1,
+      "URL": "https://upload.wikimedia.org/wikipedia/commons/6/66/20100724_Iwakuni_5235.jpg",
+      "descricao": "Iwakuni é uma cidade japonesa localizada na província de Yamaguchi. Em 2003, a cidade tinha uma população estimada em 104 647 habitantes e uma densidade populacional de 473,17 h/km². Tem uma área total de 221,16 km². Recebeu o estatuto de cidade a 1 de Abril de 1940."
+    },
+    {
+      "id": 10,
+      "idAlbum":1,
+      "URL": "https://mediaim.expedia.com/destination/1/eca7d7b8749c91f21cbc8406b8ae04f8.jpg",
+      "descricao": "Fukuyama é uma cidade japonesa localizada na província de Hiroshima. Em 1 de Fevereiro de 2005 a cidade tinha uma população estimada em 426 795 habitantes e uma densidade populacional de 925 h/km². Tem uma área total de 461,23 km². Recebeu o estatuto de cidade a 1 de Julho de 1916. "
+    },
+    {
+      "id": 11,
+      "idAlbum":1,
+      "URL": "https://hit-product-resources-public.s3.ap-northeast-1.amazonaws.com/images/377/rVEN5eErBTVTT3iSIsOv/original.jpg",
+      "descricao": "Um parque temático de Okonomiyaki, localizado na cidade de Hiroshima, Japão."
+    },
+    {
+      "id": 12,
+      "idAlbum":1,
+      "URL": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1280,h_853/w_79,x_14,y_14,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/vao6pnknectgupb4ylbx/HiroshimaCyclingPeaceTour.jpg",
+      "descricao": "Tour guiado de bicicleta pela cidade de Hiroshima, Japão."
+    },
+    
+    {
+      "id": 1,
+      "idAlbum":2,
+      "URL": "https://i.pinimg.com/736x/ea/34/27/ea342711e72fdfbeda51ef9542d52261.jpg",
+      "descricao": "Arte moderna, vistas para o mar e massas deliciosas"
+    },
+    {
+      "id": 2,
+      "idAlbum":2,
+      "URL": "https://media.cnn.com/api/v1/images/stellar/prod/140416164702-naoshima-oval.jpg?q=w_2000,h_1333,x_0,y_0,c_fill",
+      "descricao": "Naoshima é uma ilha no Mar Interior de Seto, no Japão, parte da província de Kagawa. A ilha é mais conhecida por suas muitas instalações e museus de arte contemporânea. A cidade de Naoshima administra Naoshima e 26 ilhas menores próximas."
+    },
+    {
+      "id": 3,
+      "idAlbum":2,
+      "URL": "https://www.japan-guide.com/g20/5440_12.jpg",
+      "descricao": "Teshima é uma ilha localizada no mar interior do Japão, entre as ilhas Naoshima e Shōdoshima, e faz parte da Prefeitura de Kagawa. Tem uma área de 14,5 quilômetros quadrados e uma população de cerca de 1.000 pessoas."
+    },
+    {
+      "id": 4,
+      "idAlbum":2,
+      "URL": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Kotohira-gu01s.jpg",
+      "descricao": "Kotohira é uma cidade localizada no distrito de Nakatado, província de Kagawa, Japão. Em 1º de outubro de 2022, a cidade tinha uma população estimada de 8.105 em 3.618 domicílios e uma densidade populacional de 960 pessoas por km². A área total da cidade é de 8,47 quilômetros quadrados."
+    },
+    {
+      "id": 5,
+      "idAlbum":2,
+      "URL": "https://www.japan-guide.com/g21/5403_12.jpg",
+      "descricao": "A capital da Província de Kagawa, a animada cidade portuária de Takamatsu, situada no norte de Shikoku, serve como porta de entrada para diversas belas ilhas no Mar Interior de Seto. A cidade serve como uma base conveniente para o turismo na região e conta com muitas atrações próprias."
+    },
+    {
+      "id": 6,
+      "idAlbum":2,
+      "URL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/cf/88/cb/olive-park-2.jpg?w=700&h=-1&s=1",
+      "descricao": "A Ilha Shōdo é uma ilha localizada no Mar Interior de Seto do Japão. O nome significa literalmente Ilha dos Feijões Pequenos. Há duas vilas na ilha: Tonoshō e Shodoshima, formando o distrito de Shōzu. A ilha é famosa como o cenário da novela Vinte e Quatro Olhos e suas adaptações em filmes."
+    },
+    {
+      "id": 7,
+      "idAlbum":2,
+      "URL": "https://i0.wp.com/japanonlinetour.com/wp-content/uploads/2020/12/marugame-castle.png?fit=2090%2C1394&ssl=1",
+      "descricao": "Marugame é uma cidade japonesa localizada na província de Kagawa. Em 2005 a cidade tinha uma população estimada em 110 118 habitantes e uma densidade populacional de 985,04 h/km². Tem uma área total de 111,79 km². Recebeu o estatuto de cidade a 22 de Março de 2005."
+    },
+    {
+      "id": 8,
+      "idAlbum":2,
+      "URL": "https://www.japan-guide.com/g21/5470_01.jpg",
+      "descricao": "O Museu de Arte Contemporânea Marugame Genichiro-Inokuma foi inaugurado em Marugame, província de Kagawa, Japão, em 1991. O arquiteto Yoshio Taniguchi projetou o prédio do museu. A coleção do museu compreende cerca de vinte mil obras doadas pelo artista Gen’ichirō Inokuma."
+    },
+    {
+      "id": 9,
+      "idAlbum":2,
+      "URL": "https://www.japan-guide.com/g20/5452_02.jpg",
+      "descricao": " Grande Teatro Konpira, também conhecido como Kanamaru-za, é um teatro cabúqui restaurado, que se situa em Kotohira, na província de Kagawa, na ilha de Xicocu, no Japão. Construído entre 1835 e 1836, é considerado um dos mais antigos teatros cabúquis do Japão."
+    },
+    {
+      "id": 10,
+      "idAlbum":2,
+      "URL": "https://benesse-artsite.jp/en/art/lee-ufan_kv_thumb_01_pc.jpg",
+      "descricao": "Museu resultante da colaboração entre o artista Lee Ufan e o arquiteto Tadao Ando. Ando projetou uma estrutura semi-subterrânea que abriga pinturas e esculturas de Lee, abrangendo um período da década de 1970 até os dias atuais. Situado numa espécie de vale rodeado de colinas e do oceano, o museu oferece um espaço tranquilo onde a natureza, a arquitectura e a arte entram em ressonância, convidando à contemplação tranquila e tranquila."
+    },
+    {
+      "id": 11,
+      "idAlbum":2,
+      "URL": "https://www.japan-guide.com/g19/5481_01.jpg",
+      "descricao": "I Love Yu é uma combinação de instalação de arte contemporânea e balnheiro público (sento), onde os visitantes podem experimentar o banho nas obras de arte. A instalação foi projetada pelo artista japonês Otake Shinro, cujo estilo de álbum de recortes incorpora objetos reciclados de todo o Japão. Otake também criou a casa de arte Haisha, que faz parte do Art House Project em Naoshima."
+    },
+    {
+      "id": 12,
+      "idAlbum":2,
+      "URL": "https://www.japan-guide.com/g19/5483_01.jpg",
+      "descricao": "O Museu Ando foi inaugurado em março de 2013, a tempo da segunda Trienal Setouchi, na cidade de Naoshima, em Honmura, onde se junta aos edifícios do Art House Project como um ímã adicional para os amantes da arte contemporânea. O museu foi projetado pelo homem que leva seu nome, Ando Tadao, um dos arquitetos mais famosos do Japão que também projetou a maioria dos outros museus em Naoshima."
+    },
+
+    {
+      "id": 1,
+      "idAlbum":3,
+      "URL": "https://i.pinimg.com/736x/b2/f9/ab/b2f9abbe680b3b3cfead94d49377ad43.jpg",
+      "descricao": "As fontes de águas termais, um castelo majestoso e a famosa culinária local estão ajudando Kumamoto a se reconstruir"
+    },
+    {
+      "id": 2,
+      "idAlbum":3,
+      "URL": "https://www.japan-guide.com/g21/4501_01.jpg",
+      "descricao": "O Castelo de Kumamoto (熊本城, Kumamotojō) é um dos castelos mais impressionantes do Japão. Com grandes terrenos de castelo e uma variedade de edifícios, o Castelo de Kumamoto oferece aos seus visitantes uma das experiências de castelo mais completas do Japão."
+    },
+    {
+      "id": 3,
+      "idAlbum":3,
+      "URL": "https://www.japan-guide.com/g20/4502_01.jpg",
+      "descricao": "Jardim Suizenji (水前寺成趣園, Suizenji Jōjuen) é um espaçoso jardim paisagístico de estilo japonês em Kumamoto, melhor apreciado caminhando por um caminho circular. Foi construído pela família Hosokawa no século XVII."
+    },
+    {
+      "id": 4,
+      "idAlbum":3,
+      "URL": "https://www.japan-guide.com/g21/4504_01.jpg",
+      "descricao": "A Antiga Residência Hosokawa (旧細川刑部邸, Kyū Hosokawa Gyōbutei) é a antiga residência de um ramo da família do Clã Hosokawa, o poderoso clã que governou Kumamoto durante o Período Edo. O edifício é um ótimo exemplo de mansão de samurai de alta classe."
+    },
+    {
+      "id": 5,
+      "idAlbum":3,
+      "URL": "https://www.japan-guide.com/g21/4505_01.jpg",
+      "descricao": "Hearn, um dos primeiros autores a escrever livros sobre o Japão, imigrou para o Japão em 1890 e passou o resto da vida lá. Depois de passar um ano em Matsue, província de Shimane, Hearn residiu vários anos de sua vida (1891 a 1894) na cidade de Kumamoto. Hoje, sua antiga residência em Kumamoto (小泉八雲熊本旧居, Koizumi Yakumo Kumamoto Kyūkyo) está aberta ao público e contém um pequeno museu sobre o autor."
+    },
+    {
+      "id": 6,
+      "idAlbum":3,
+      "URL": "https://www.japan-guide.com/thumb/XYZeXYZe4575_1680.jpg",
+      "descricao": "Kurokawa Onsen (黒川温泉) é uma das cidades de fontes termais mais atraentes do Japão, localizada no centro de Kyushu, cerca de 20 quilômetros ao norte do Monte Aso. Os esforços bem coordenados da cidade para manter uma atmosfera agradável e tradicional mantiveram Kurokawa livre dos enormes hotéis de concreto, dos anúncios em neon e das cores fortes que são encontrados em muitas outras cidades turísticas do Japão."
+    },
+    {
+      "id": 7,
+      "idAlbum":3,
+      "URL": "https://www.japan-guide.com/thumb/XYZeXYZe4550_1680.jpg",
+      "descricao": "O Monte Aso (阿蘇山, Asosan) é um grande vulcão ativo no centro de Kyushu. A caldeira da montanha, criada por múltiplas erupções gigantescas no passado distante, é uma das maiores do mundo com uma circunferência de mais de 100 quilômetros. Cercada por uma borda circular, a caldeira contém diversas cidades rurais e amplas áreas de campos de arroz."
+    },
+    {
+      "id": 8,
+      "idAlbum":3,
+      "URL": "https://www.japan-guide.com/thumb/XYZeXYZe4525_1680a.jpg",
+      "descricao": "A cidade de Minamata (水俣), no sul da província de Kumamoto, ganhou fama mundial nas décadas de 1950 e 1960 por meio de um desastre de envenenamento por mercúrio, causado pela descarga de águas residuais venenosas de uma fábrica local na Baía de Minamata."
+    },
+    {
+      "id": 9,
+      "idAlbum":3,
+      "URL": "https://kumamoto-guide.jp/files/268cf713-4504-46da-8e13-05e0b96936da_xl.jpg?1601494269",
+      "descricao": "Sakuranobaba Josaien é uma instalação turística japonesa localizada ao lado do Castelo de Kumamoto na cidade de Kumamoto, Prefeitura de Kumamoto. A instalação é composta por três áreas: Josaien Kumamoto Castle Shops, Kumamoto Castle Museum Wakuwakuza e um escritório de informações turísticas."
+    },
+    {
+      "id": 10,
+      "idAlbum":3,
+      "URL": "https://d20aeo683mqd6t.cloudfront.net/images/imgs/000/056/332/original/shirakawa-suigen-water-spring-kumamoto-p3736714_M_b.jpg?1604756008&d=750x750",
+      "descricao": "Esta área é particularmente abençoada com nascentes naturais graças à presença da camada impermeável de argila e lava do Monte Aso, que permite que a água da chuva se acumule no subsolo e borbulhe até à superfície como água de nascente. A água pode ser engarrafada de graça, mas se não bastasse, saiba que a própria localização do Shirakawa Suigen vale a pena uma visita. A fonte cristalina está situada em um oásis verde, cercada por plantas aquáticas flutuantes e pelo sereno Santuário Shirakawa Yoshimi."
+    },
+    {
+      "id": 11,
+      "idAlbum":3,
+      "URL": "https://d20aeo683mqd6t.cloudfront.net/images/imgs/000/056/336/original/nagabeta-seabed-underwater-road-kumamoto-p65435548_M.jpg?1604759002&d=750x750",
+      "descricao": "A Nagabeta Seabed Road é uma estrada submarina acessível apenas em horários diferentes do dia, dependendo da maré. A estrada é visível durante a maré baixa, enquanto afunda nas profundezas do mar durante a maré alta, deixando apenas os postes e fios elétricos saindo da superfície da água. Esta misteriosa estrada submarina foi construída em 1974 para os pescadores da região que cultivam algas e mariscos no Mar de Ariake e desde então se tornou um dos pontos mais fotografados de Kumamoto. A melhor época para visitar a Estrada do Fundo Marinho de Nagabeta é ao pôr do sol, quando a água reflete os tons quentes do sol poente, oferecendo uma vista soberba do Mar de Ariake. Diz-se que os postes que emergem da água são a inspiração para a linha de trem que aparece em Spirited Away, do Studio Ghibli."
+    },
+    {
+      "id": 12,
+      "idAlbum":3,
+      "URL": "https://d20aeo683mqd6t.cloudfront.net/images/imgs/000/056/339/original/okoshiki-coast-beach-kumamoto-s1224907912.jpg?1604815070&d=750x750",
+      "descricao": "A beleza da Costa Okoshiki é conhecida desde a antiguidade e até o seu nome está ligado a uma antiga lenda japonesa. Reza a lenda que até o Imperador ficou tão cativado pelo encanto desta praia que quis parar o seu palanquim (“okoshi”) quando chegou (“ki”) à zona para admirar a paisagem. Fazendo jus ao seu nome, a Costa Okoshiki foi selecionada como uma das melhores praias do Japão e um dos mais belos pores do sol do Japão, graças às suas características únicas."
+    },
+    {
+      "id": 1,
+      "idAlbum":4,
+      "URL": "https://i.pinimg.com/736x/37/bc/c1/37bcc11edd34897a1110fecc01c2538b.jpg",
+      "descricao": "Kyoto, antiga capital do Japão, é uma cidade da ilha de Honshu, famosa por seus vários templos clássicos budistas, jardins, palácios imperiais, santuários xintoístas e casas de madeira tradicionais."
+    },
+    {
+      "id": 2,
+      "idAlbum":4,
+      "URL": "https://www.japan-guide.com/g18/3972_top.jpg",
+      "descricao": "O Museu Ferroviário de Quioto foi inaugurado em 2016 por JR West no antigo local do Museu de Trem e Locomotivas Umekoji, a cerca de vinte minutos a pé a oeste da Estação de Quioto. É um dos três grandes museus ferroviários do Japão, ao lado do Museu Ferroviário da JR East em Saitama e do SCMAGLEV e Parque Ferroviário da JR Central em Nagoya."
+    },
+    {
+      "id": 3,
+      "idAlbum":4,
+      "URL": "https://www.japan-guide.com/g18/3935_top.jpg",
+      "descricao": "O Palácio Imperial Sento (仙洞御所, Sentō Gosho) é um complexo palaciano secundário em frente ao Palácio Imperial de Quioto, no Parque Imperial de Quioto. Foi construído em 1630 como palácio de aposentadoria do imperador Gomizuno e tornou-se o palácio dos imperadores aposentados subsequentes."
+    },
+    {
+      "id": 4,
+      "idAlbum":4,
+      "URL": "https://www.japan-guide.com/g18/3931_top.jpg",
+      "descricao": "O Mercado Nishiki (錦市場, Nishiki Ichiba) é uma rua comercial estreita de cinco quarteirões, ladeada por mais de cem lojas e restaurantes. Conhecido como Cozinha de Quioto, este animado mercado de varejo é especializado em todos os itens relacionados à alimentação, como frutos do mar frescos, produtos agrícolas, facas e utensílios de cozinha, e é um ótimo lugar para encontrar alimentos sazonais e especialidades de Quioto, como doces japoneses, picles, frutos do mar secos, e sushis."
+    },
+    {
+      "id": 5,
+      "idAlbum":4,
+      "URL": "https://www.japan-guide.com/g18/3917_top.jpg",
+      "descricao": "O Palácio Imperial de Quioto (京都御所, Kyōto Gosho) foi a residência da Família Imperial do Japão até 1868, quando o imperador e a capital foram transferidos de Quioto para Tóquio. Ele está localizado no espaçoso Parque Imperial de Quioto (京都御苑, Kyōto Gyoen), um parque atraente no centro da cidade que também abrange o Palácio Imperial Sento, que serviu a imperadores aposentados, e algumas outras atrações."
+    },
+    {
+      "id": 6,
+      "idAlbum":4,
+      "URL": "https://www.japan-guide.com/g19/3921_top.jpg",
+      "descricao": "Pontocho (先斗町, Pontochō) é uma das áreas gastronômicas mais atmosféricas de Kyoto. É um beco estreito que vai de Shijo-dori a Sanjo-dori, um quarteirão a oeste do rio Kamogawa. O beco está repleto de restaurantes em ambos os lados, oferecendo uma ampla variedade de opções gastronômicas, desde yakitori barato até a culinária tradicional e moderna de Kyoto, culinária estrangeira e estabelecimentos altamente exclusivos que exigem as conexões certas e uma carteira gorda."
+    },
+    {
+      "id": 7,
+      "idAlbum":4,
+      "URL": "https://www.japan-guide.com/g18/3959_top.jpg",
+      "descricao": "O distrito de Higashiyama (東山), ao longo das encostas mais baixas das montanhas orientais de Quioto, é um dos bairros históricos mais bem preservados da cidade. É um ótimo lugar para experimentar a antiga Quioto tradicional, especialmente entre Kiyomizudera e o Santuário Yasaka, onde as ruas estreitas, os edifícios de madeira e as lojas tradicionais evocam uma sensação da antiga capital. Esforços recentes para remover postes telefónicos e repavimentar as ruas melhoraram ainda mais a atmosfera tradicional do distrito."
+    },
+    {
+      "id": 8,
+      "idAlbum":4,
+      "URL": "https://www.japan-guide.com/g18/3915_top.jpg",
+      "descricao": "O Santuário Fushimi Inari (伏見稲荷大社, Fushimi Inari Taisha) é um importante santuário xintoísta no sul de Kyoto. É famosa por seus milhares de portões torii vermelhos, que se estendem por uma rede de trilhas atrás de seus edifícios principais. As trilhas levam à floresta arborizada do sagrado Monte Inari, que tem 233 metros de altura e pertence ao terreno do santuário."
+    },
+    {
+      "id": 9,
+      "idAlbum":4,
+      "URL": "https://www.japan-guide.com/g18/3919_01.jpg",
+      "descricao": "O Templo Toji (東寺, Tōji), literalmente Templo do Leste, foi fundado no início do Período Heian, logo após a capital ser transferida para Kyoto no final dos anos 700. O grande templo, junto com seu agora extinto templo irmão Saiji (Templo Ocidental), flanqueava a entrada sul da cidade e servia como templos guardiões da capital. O Templo Toji é um dos muitos patrimônios mundiais da UNESCO em Kyoto."
+    },
+    {
+      "id": 10,
+      "idAlbum":4,
+      "URL": "https://www.japan-guide.com/g18/3938_top.jpg",
+      "descricao": "O Fushimi Sake District (伏見) é um charmoso e tradicional bairro de produção de saquê ao longo do rio Horikawa, ladeado de salgueiros, no sul de Kyoto. Reverenciado pela água limpa e macia que flui em abundância das nascentes subterrâneas do rio, o distrito abriga cerca de 40 cervejarias de saquê. Ao lado do distrito Nada de Kobe, Fushimi é um dos principais distritos produtores de saquê do país há muitos séculos."
+    },
+    {
+      "id": 11,
+      "idAlbum":4,
+      "URL": "https://www.japan-guide.com/g18/3916_top.jpg",
+      "descricao": "Daigoji (醍醐寺) é um importante templo da seita Shingon do budismo japonês e um patrimônio mundial designado. O grande complexo de templos fica a sudeste do centro de Kyoto e inclui uma montanha inteira. Os principais terrenos do templo estão localizados na base da montanha e são conectados por uma trilha a vários outros edifícios do templo ao redor do cume."
+    },
+    {
+      "id": 12,
+      "idAlbum":4,
+      "URL": "https://www.japan-guide.com/g18/3936_top.jpg",
+      "descricao": "Shugakuin Imperial Villa (修学院離宮, Shugakuin Rikyū) was built in the 17th century by Emperor Gomizuno and is now managed by the Imperial Household Agency. It consists of the Upper, Middle and Lower Villa areas, each featuring gardens and buildings of the traditional imperial style."
+    },
+
+    {
+      "id": 1,
+      "idAlbum":5,
+      "URL": "https://i.pinimg.com/736x/73/dc/35/73dc35c26251abeb7b82dff1329dda61.jpg",
+      "descricao": "Miyazaki (宮崎), capital da província de Miyazaki, está localizada na costa sudeste de Kyushu. Com um dos climas mais quentes das principais ilhas do Japão, resorts, praias e instalações esportivas, Miyazaki costumava ser o principal local para lua de mel e um destino popular entre os viajantes nacionais até a década de 1980."
+    },
+    {
+      "id": 2,
+      "idAlbum":5,
+      "URL": "https://www.japan-guide.com/g20/8005_01.jpg",
+      "descricao": "A Ilha de Aoshima (青島, Aoshima) é uma pequena e bela ilha próxima à costa das praias do resort ao sul da cidade de Miyazaki. Aoshima está ligada ao continente por uma ponte e é cercada por praias de areia branca que cercam uma selva subtropical no centro da ilha."
+    },
+    {
+      "id": 3,
+      "idAlbum":5,
+      "URL": "https://www.japan-guide.com/g20/8002_01.jpg",
+      "descricao": "O Parque Heiwadai (平和台公園, Heiwadai Kōen), ou Parque da Torre da Paz, foi construído em 1940 para celebrar o 2.600º aniversário da ascensão do Imperador Jimmu, o mítico primeiro imperador do Japão, no que se acredita ser o local original de sua capital. . Dentro do parque fica a Torre da Paz, ou Heiwadainoto, uma torre construída com pedras enviadas de toda a Ásia e um dos marcos mais conhecidos de Miyazaki."
+    },
+    {
+      "id": 4,
+      "idAlbum":5,
+      "URL": "https://www.japan-guide.com/thumb/XYZeXYZe8050_1680.jpg",
+      "descricao": "Takachiho (高千穂) é uma cidade no norte da província de Miyazaki rica em mitologia japonesa. É o suposto local da lenda onde Amaterasu, a Deusa Xintoísta do Sol, perturbada pelas travessuras cruéis de seu irmão, se escondeu em uma caverna, levando os outros deuses e deusas a tentarem atraí-la para fora."
+    },
+    {
+      "id": 5,
+      "idAlbum":5,
+      "URL": "https://www.japan-guide.com/thumb/XYZeXYZe8032_1680.jpg",
+      "descricao": "O Santuário Udo (鵜戸神宮, Udo Jingū), localizado na costa de Nichinan, ao sul da cidade de Miyazaki, é dedicado a Yamasachihiko, pai do imperador Jimmu, o mítico primeiro imperador do Japão. Este santuário pintado em cores vivas está situado em uma caverna na encosta de um penhasco com vista para o oceano e, portanto, desfruta de uma vista espetacular."
+    },
+    {
+      "id": 6,
+      "idAlbum":5,
+      "URL": "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/04/a0004957/img/en/a0004957_parts_60aef9933c1df.jpg?20210810070000&q=80",
+      "descricao": "Este grupo de mais de 300 túmulos em terreno elevado é designado como um parque histórico especial. Outras atrações incluem o Museu Arqueológico da Prefeitura de Saitobaru, o Museu de Experiência da Vida Antiga de Saitobaru e o cemitério Oninoiwaya, que foi restaurado principalmente em sua forma original."
+    },
+    {
+      "id": 7,
+      "idAlbum":5,
+      "URL": "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/04/a0004957/img/en/a0004957_parts_60aefa6498b2e.jpg?20210810070000&q=80",
+      "descricao": "Conhecida como a maior área de floresta perene do Japão, esta extensa floresta compreende carvalhos, castanopsis e faias e se espalha pela paisagem a noroeste da cidade de Aya."
+    },
+    {
+      "id": 8,
+      "idAlbum":5,
+      "URL": "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/04/a0004957/img/en/a0004957_parts_60aefb97ed5d5.jpg?20210810070000&q=80",
+      "descricao": "Takachiho- O desfiladeiro é formado por uma junção colunar, resultante do resfriamento rápido de um antigo fluxo de lava. De barco, a visão do desfiladeiro logo acima dos 17 metros das Cataratas de Manai é verdadeiramente emocionante."
+    },
+    {
+      "id": 9,
+      "idAlbum":5,
+      "URL": "https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/6/2018/07/IMG_0655.jpg",
+      "descricao": "Amano Yasugawara - Embora muitos visitantes da província de Miyazaki não deixem de visitar o famoso desfiladeiro de Takachiho, eles muitas vezes negligenciam o “local de poder espiritual” próximo, com um santuário em uma caverna, localizado a apenas 20 minutos de distância."
+    },
+    {
+      "id": 10,
+      "idAlbum":5,
+      "URL": "https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/6/2016/05/Udo-Jingu-1024x724.jpg",
+      "descricao": "Udo Jingu - Embora bonita durante todo o ano, a atmosfera do Udo Jingu, pintado em cores vivas, é ampliada durante o mau tempo, quando você pode experimentar as ondas quebrando contra as rochas irregulares que se projetam do mar tumultuado logo abaixo da caverna."
+    },
+    {
+      "id": 11,
+      "idAlbum":5,
+      "URL": "https://www.japan-guide.com/thumb/XYZeXYZe4625_1680.jpg",
+      "descricao": "Kirishima (霧島) é uma cordilheira vulcânica ativa que fica na fronteira entre as províncias de Miyazaki e Kagoshima. É formada por montanhas, planaltos, lagos vulcânicos e fontes termais e oferece boas caminhadas por belos cenários montanhosos. Devido a uma erupção recente no Monte Shinmoedake, algumas das trilhas para caminhadas estão fechadas."
+    },
+    {
+      "id": 12,
+      "idAlbum":5,
+      "URL": "https://www.japan-guide.com/g20/8004_11.jpg",
+      "descricao": "O Santuário Miyazaki (宮崎神宮, Miyazaki Jingū) é o santuário mais antigo e importante da cidade. Dedicado ao Imperador Jimmu, o mítico primeiro imperador do Japão, diz-se que foi estabelecido há mais de 2.600 anos."
+    },
+
+    {
+      "id": 1,
+      "idAlbum":6,
+      "URL": "https://i.pinimg.com/736x/be/28/2d/be282d3997d2e527e86b946292157858.jpg",
+      "descricao": "A cidade de Nagano (長野) é a capital da província de Nagano. Ela evoluiu como uma cidade-templo em torno de Zenkoji, um dos templos mais populares do Japão. Em 1998, a cidade sediou os Jogos Olímpicos de Inverno, e algumas antigas instalações olímpicas ainda podem ser vistas pela cidade."
+    },
+    {
+      "id": 2,
+      "idAlbum":6,
+      "URL": "https://www.japan-guide.com/thumb/XYZeXYZe6025_1680.jpg",
+      "descricao": "Yamanouchi (山ノ内) é um município no norte da província de Nagano com uma variedade de atrações turísticas. O Parque dos Macacos Jigokudani da região atrai muitos visitantes por causa de seus macacos selvagens únicos que se banham nas fontes termais naturais do parque. Os macacos não são os únicos a aproveitar a água, já que as cidades vizinhas de Shibu Onsen e Yudanaka Onsen estão centradas na experiência do banho."
+    },
+    {
+      "id": 3,
+      "idAlbum":6,
+      "URL": "https://www.japan-guide.com/thumb/XYZeXYZe6050_1680.jpg",
+      "descricao": "Matsumoto (松本) é a segunda maior cidade da província de Nagano. É mais famoso por Matsumotojo, um dos mais belos castelos originais do Japão. A cidade também é uma boa base para viagens aos Alpes japoneses, por ex. para Kamikochi, Norikura ou a Rota Alpina Tateyama-Kurobe"
+    },
+    {
+      "id": 4,
+      "idAlbum":6,
+      "URL": "https://www.japan-guide.com/thumb/XYZeXYZe6015_1680.jpg",
+      "descricao": "Nozawa Onsen (野沢温泉) é uma pacata cidade termal e de esqui no norte da província de Nagano. Seus banhos termais incluem 13 banhos públicos de estilo tradicional (sotoyu), mantidos pela comunidade local desde o Período Edo e abertos gratuitamente ao público."
+    },
+    {
+      "id": 5,
+      "idAlbum":6,
+      "URL": "https://www.japan-guide.com/thumb/XYZeXYZe6020_1680a.jpg",
+      "descricao": "Obuse (小布施) é uma pequena cidade no norte da província de Nagano com um belo centro. Hokusai, um renomado pintor de xilogravuras do Período Edo (1603-1867), mais conhecido por sua xilogravura ukiyo-e, A Grande Onda de Kanagawa, passou os últimos anos de sua vida em Obuse com seu patrono e aluno, Takai Kozan, um rico comerciante local e entusiasta da arte."
+    },
+    {
+      "id": 6,
+      "idAlbum":6,
+      "URL": "https://www.japan-guide.com/thumb/XYZeXYZe6030_1680.jpg",
+      "descricao": "Karuizawa (軽井沢) é um resort de montanha sofisticado no sopé do vulcão ativo Monte Asama, na província de Nagano. Localizada a cerca de 1000 metros de altitude, a cidade proporciona um agradável refúgio do calor do verão. Foi promovido como um resort nas montanhas pelos residentes ocidentais do Japão no final de 1800, e hoje muitos moradores urbanos ricos possuem uma segunda casa lá. Graças ao Hokuriku Shinkansen, leva pouco mais de uma hora para chegar a Karuizawa vindo do centro de Tóquio."
+    },
+    {
+      "id": 7,
+      "idAlbum":6,
+      "URL": "https://www.japan-guide.com/thumb/XYZeXYZe6070_1680.jpg",
+      "descricao": "Bessho Onsen (別所温泉) é uma pequena cidade de águas termais nos arredores do centro da cidade de Ueda, na província de Nagano. Durante o Período Kamakura (1192-1333), serviu como sede do governador da região de Shinshu (hoje Prefeitura de Nagano), que construiu templos e trouxe a cultura Kamakura para a cidade montanhosa. Isso fez de Bessho Onsen um próspero centro de educação e religião e, por sua vez, rendeu à cidade o apelido de Kamakura de Shinshu."
+    },
+    {
+      "id": 8,
+      "idAlbum":6,
+      "URL": "https://www.japan-guide.com/g19/6004_top.jpg",
+      "descricao": "Localizado a uma curta caminhada do Templo Zenkoji, o Museu de Arte da Prefeitura de Nagano (長野県立美術館, Nagano-kenritsu Bijutsukan) organiza exposições rotativas de belas artes com diferentes temas. As respectivas obras de arte são feitas principalmente por artistas nascidos ou relacionados à província de Nagano ou que retratam belas paisagens locais."
+    },
+    {
+      "id": 9,
+      "idAlbum":6,
+      "URL": "https://www.japan-guide.com/g19/6007_top.jpg",
+      "descricao": "A Kids Ninja Village (チビッ子忍者村, Chibiko Ninja Mura) é um pequeno parque temático com atrações relacionadas aos ninjas localizado no Monte Togakushi na cidade de Nagano, a lendária casa da Escola Ninja Togakure. A vila está situada em uma floresta, com muitas pistas de obstáculos e trepa-trepas para os visitantes fingirem estar em treinamento ninja."
+    },
+    {
+      "id": 10,
+      "idAlbum":6,
+      "URL": "https://www.japan-guide.com/g19/6002_top.jpg",
+      "descricao": "Em 1998, os Jogos Olímpicos e Paraolímpicos de Inverno foram sediados com sucesso em Nagano. Foi a terceira vez que o Japão sediou as Olimpíadas. Os vários eventos foram realizados na cidade de Nagano e em cidades montanhosas próximas, incluindo Hakuba, Karuizawa, Nozawa e Shiga Kogen."
+    },
+    {
+      "id": 11,
+      "idAlbum":6,
+      "URL": "https://www.japan-guide.com/g19/6006_top.jpg",
+      "descricao": "O Museu Togakure Ninpo (戸隠流忍法資料館, Togakure-ryū Ninpō Shiryōkan) é dedicado à escola local de ninjas de Togakure. No século XII, um guerreiro de Nagano fugiu para Iga depois de lutar no lado perdedor de uma guerra entre os clãs Minamoto e Taira. Iga era a base tradicional do ninja, e o guerreiro aprendeu suas habilidades ninja lá antes de retornar a Nagano e iniciar sua própria escola ninja."
+    },
+    {
+      "id": 12,
+      "idAlbum":6,
+      "URL": "https://www.japan-guide.com/g19/6001_top.jpg",
+      "descricao": "O Templo Zenkoji de Nagano (善光寺, Zenkōji) é um dos templos mais importantes e populares do Japão. Foi fundado no século VII e armazena a primeira estátua budista trazida para o Japão quando o budismo foi introduzido pela primeira vez no século VI. A estátua original fica escondida enquanto uma cópia dela é mostrada ao público a cada seis anos durante algumas semanas. A próxima oportunidade de ver a estátua está prevista para 2028."
+    },
+
+    {
+      "id": 1,
+      "idAlbum":7,
+      "URL": "https://i.pinimg.com/736x/2c/ce/7a/2cce7a9702c993f2e605efc03ca2511d.jpg",
+      "descricao": "Parte da região de Kansai, a província de Shiga (滋賀県, Shiga-ken) está localizada a leste de Kyoto. A capital da província é Otsu. A província de Shiga abrange totalmente o Lago Biwa, o maior lago do Japão. Outra atração é Hikone com seu castelo feudal."
+    },
+    {
+      "id": 2,
+      "idAlbum":7,
+      "URL": "https://www.japan-guide.com/thumb/XYZeXYZe7075_1680.jpg",
+      "descricao": "Omi Hachiman (近江八幡, Ōmihachiman) é uma cidade na província de Shiga conhecida por seu centro histórico bem preservado e seu canal, onde os visitantes podem desfrutar de passeios de barco tradicionais pela paisagem urbana histórica. Omi Hachiman ganhou destaque durante a era feudal como a base dos comerciantes locais, os mercadores Omi, cujas atividades comerciais eram famosas em todo o país e lhes proporcionavam grande riqueza."
+    },
+    {
+      "id": 3,
+      "idAlbum":7,
+      "URL": "https://www.japan-guide.com/thumb/XYZeXYZe7000_1680.jpg",
+      "descricao": "Hikone (彦根) é uma pequena cidade às margens do Lago Biwa, o maior lago do Japão. A cidade é mais famosa por seu castelo, um dos cinco castelos do Japão designados como tesouros nacionais. Hikone faz uma parada agradável em uma viagem entre Tóquio e Kyoto ou em uma viagem paralela de Kyoto."
+    },
+    {
+      "id": 4,
+      "idAlbum":7,
+      "URL": "https://www.japan-guide.com/thumb/XYZeXYZe7025_1680.jpg",
+      "descricao": "Koka (甲賀, Kōka, também comumente pronunciada Kōga) é uma cidade rural na província de Shiga, não muito longe de Kyoto. Juntamente com a vizinha Iga, Koka pode ser considerada a pátria dos ninjas e apresenta algumas atrações relacionadas aos ninjas, que tendem a ser menos desenvolvidas turísticamente do que as de Iga."
+    },
+    {
+      "id": 5,
+      "idAlbum":7,
+      "URL": "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/20/00/a2000165/img/en/a2000165_parts_5d1c6aba0617b.jpg?20210216090103&q=80",
+      "descricao": "A uma altitude de 1.100 metros, o Vale Biwako fica a 10 minutos de ônibus da Estação JR Shiga e, em seguida, um passeio de teleférico da Estação Sanroku até o pico da montanha. Aqui poderá desfrutar de um passeio a maior altitude, contemplando as flores de cerejeira primaveris e as folhas coloridas do outono que cobrem toda a encosta da montanha. O Vale Biwako é uma estação de esqui movimentada no inverno, e as atividades de tirolesa e passarela também são populares entre os jovens. Você não vai querer perder a vista panorâmica do Lago Biwa do Terraço Biwako."
+    },
+    {
+      "id": 6,
+      "idAlbum":7,
+      "URL": "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/20/00/a2000165/img/en/a2000165_parts_5d6dce13cf1b1.jpg?20210216090103&q=80",
+      "descricao": "Quando a maioria das pessoas pensa em um portão torii flutuante, provavelmente pensarão em Miyajima - mas um ponto turístico menos conhecido de Shiga é este lindo portão flutuante no Lago Biwa! Isso faz parte do Santuário Shirahige, perto de Takashima. Apenas certifique-se de ir para o lado oeste do lago!"
+    },
+    {
+      "id": 7,
+      "idAlbum":7,
+      "URL": "https://blog.japanwondertravel.com/wp-content/uploads/2020/07/1214-600x600.jpg",
+      "descricao": "Localizada em Omihachiman, La Collina é composta por uma fábrica de confeitaria, cafés, restaurantes, praça de alimentação, lojas e fazendas de arroz e vegetais. La Collina é propriedade do grupo Taneya, uma empresa de confeitaria com sede em Omihachiman desde 1872."
+    },
+    {
+      "id": 8,
+      "idAlbum":7,
+      "URL": "https://blog.japanwondertravel.com/wp-content/uploads/2020/07/45f1071fc9faf7cbf262cccf6c737a01.jpg",
+      "descricao": "Museu Miho - O museu foi inaugurado em 1997 em meio à abundante beleza natural das montanhas de Shigaraki. Tem o nome de Koyama Mihoko (1910-2003), que foi o fundador do museu. A abordagem do museu foi projetada pelo arquiteto I.M. Pei, conhecido por obras como a pirâmide de vidro do Louvre, em Paris. Você caminha pela passarela cercada por cerejeiras e passa por um túnel e por uma ponte antes de chegar ao museu. As exposições do museu incluem uma ampla variedade de arte japonesa, juntamente com arte antiga de áreas como Egito, Ásia Ocidental, Grécia, Roma, Sul da Ásia e China."
+    },
+    {
+      "id": 9,
+      "idAlbum":7,
+      "URL": "https://blog.japanwondertravel.com/wp-content/uploads/2020/07/29000d9ebc7376b46c2501e9def63256.jpg",
+      "descricao": "Shigaraki é uma pequena cidade conhecida pela cerâmica. A cidade é repleta de oficinas, galerias e vendedores de cerâmica Shigaraki. A Vila Tanuki é uma das oficinas de cerâmica junto com restaurantes e lojas. Você também pode experimentar fazer sua própria cerâmica Shigaraki"
+    },
+    {
+      "id": 10,
+      "idAlbum":7,
+      "URL": "https://blog.japanwondertravel.com/wp-content/uploads/2020/07/c35bd24fefbf978e91600c2984897061.jpg",
+      "descricao": "Ukimido, localizado às margens do Lago Biwako, também é conhecido como o “salão do templo flutuante” no Templo Mangetsuji. É famoso por ser apresentado como uma das Oito Vistas de Omi e tem sido amado por vários poetas e escritores japoneses famosos. O edifício atual é uma recriação do que foi construído em 1937."
+    },
+    {
+      "id": 11,
+      "idAlbum":7,
+      "URL": "https://itsyourjapan.com/wp-content/uploads/2020/06/Lake-Biwa-shiga-prefecture.jpg",
+      "descricao": "De longe, a atração mais famosa de Shiga é o Lago Biwa, o maior lago do Japão, que ocupa um sexto da área de Shiga. É visto por muitos como o símbolo de Shiga. O lago também é um dos mais antigos, estimado como o 13º mais antigo do mundo. Devido à sua proximidade com a antiga capital Quioto, o lago aparece com destaque na literatura japonesa."
+    },
+    {
+      "id": 12,
+      "idAlbum":7,
+      "URL": "https://en.biwako-visitors.jp/foreigners/blog/kst2.jpg",
+      "descricao": "Localizado na cidade de Kusatsu, Shiga, o Museu do Lago Biwa é o maior museu dedicado a lagos no Japão. O museu centra-se no homem e na sua relação com o lago, bem como nas diversas flora e fauna que aí existem. Você pode aprender tudo sobre como o Lago Biwa surgiu e a profunda história e desenvolvimento por trás dele."
+    },
+
+    {
+      "id": 1,
+      "idAlbum":8,
+      "URL": "https://i.pinimg.com/736x/23/f7/6c/23f76c6d8ecf300ef50610429d065aa1.jpg",
+      "descricao": "A província de Wakayama (和歌山県, Wakayama-ken) está localizada ao sul de Osaka, na região de Kansai. A capital da província é a cidade de Wakayama. A atração turística mais conhecida da província é o Monte Koya (Koyasan), sede do Budismo Shingon e o melhor lugar para passar a noite em um templo."
+    },
+    {
+      "id": 2,
+      "idAlbum":8,
+      "URL": "https://www.japan-guide.com/thumb/XYZeXYZe4900_1680.jpg",
+      "descricao": "A área de Kumano (熊野) está localizada no extremo sul da Península de Kii, cerca de 100 quilômetros ao sul de Osaka e Kyoto. Abrange as prefeituras de Wakayama e Mie, embora a maioria das atrações e locais religiosos estejam em Wakayama."
+    },
+    {
+      "id": 3,
+      "idAlbum":8,
+      "URL": "https://blog.japanwondertravel.com/wp-content/uploads/2020/07/Kumano-Nachi-Taisha-600x400.jpg",
+      "descricao": "Kumano Nachi Taisha é um famoso santuário xintoísta localizado a meio caminho da montanha Nachi, aproximadamente 350 metros acima do nível do mar. O santuário faz parte de um grande complexo de locais religiosos que apresenta uma mistura de influências budistas e xintoístas, típicas da região de Kumano. Kumano Nachi Taisha tem sido adorado como um local sagrado do Xintoísmo e, quando o Budismo foi introduzido no Japão em meados do século VI, o santuário iniciou um longo processo de integração do Xintoísmo e do Budismo. Por esta razão, você pode encontrar santuários xintoístas e templos budistas nos terrenos do santuário."
+    },
+    {
+      "id": 4,
+      "idAlbum":8,
+      "URL": "https://blog.japanwondertravel.com/wp-content/uploads/2020/07/Shirahama-beach.jpg",
+      "descricao": "Shirahama significa “praia branca” em japonês e é o nome de uma praia popular famosa por sua areia branca e cintilante, supostamente importada da Austrália. É provavelmente a praia mais bonita da região de Kansai. A praia curva tem cerca de 600 metros de extensão e conta com diversos hotéis localizados com acesso direto à água."
+    },
+    {
+      "id": 5,
+      "idAlbum":8,
+      "URL": "https://blog.japanwondertravel.com/wp-content/uploads/2020/07/kentaro-toma-iLsjHy_bFMc-unsplash.jpg",
+      "descricao": "Localizado na cidade de Wakayama, o castelo fica na foz do rio Kii. Foi originalmente construído em 1585, no entanto, foi em grande parte destruído durante a Segunda Guerra Mundial e a maioria dos edifícios atuais foram reconstruídos em 1958. Apenas o Portão Okaguchi e as paredes de pedra permanecem do castelo original."
+    },
+    {
+      "id": 6,
+      "idAlbum":8,
+      "URL": "https://blog.japanwondertravel.com/wp-content/uploads/2020/07/Hashigui-iwa-Rocks.jpg",
+      "descricao": "As rochas Hashigui-iwa são uma das muitas belas maravilhas naturais da província de Wakayama. Hashigui-iwa significa Bridge Pier Rocks em japonês e é fácil reconhecer como recebeu esse nome. As rochas costeiras de diferentes tamanhos e formatos estão posicionadas em linha reta que se estende por cerca de 850 metros, semelhante aos pilares de uma ponte. Segundo a lenda, o monge Kukai, ou Kobo Daishi, estava tentando construir uma ponte aqui. Algumas pessoas também dizem que olhando para as rochas de um determinado ângulo elas se assemelham a monges rezando. O local é conhecido por sua beleza ao nascer do sol. Quando a maré baixa, é divertido passear entre essas rochas e conferir as poças de maré."
+    },
+    {
+      "id": 7,
+      "idAlbum":8,
+      "URL": "https://blog.japanwondertravel.com/wp-content/uploads/2020/07/tomogashima2-600x400.jpg",
+      "descricao": "Tomogashima é um grupo de quatro ilhas na costa de Wakayama, no Mar Interior. As quatro ilhas são Jinoshima, Kamishima, Okinoshima e Torajima. As ilhas fazem parte do Parque Nacional Setonaikai."
+    },
+    {
+      "id": 8,
+      "idAlbum":8,
+      "URL": "https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/6/2020/03/Nitama-cat-at-Kishi-Station-Wakayama-1024x683.jpg",
+      "descricao": "A Estação Kishi é operada por Tama II, um gato que segue os passos de seu antecessor, Tama – a divindade guardiã consagrada da estação. Você vai querer tirar muitas fotos desse felino fofo e dos trens com tema de gato da estação. Se precisar de ajuda para encontrar a Estação Kishi, não deve ser muito difícil. É o único com formato de gato."
+    },
+    {
+      "id": 9,
+      "idAlbum":8,
+      "URL": "https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/6/2020/03/Wakayama-Otorii-Grand-Hongu-Taisha-Shrine-2-1024x681.jpg",
+      "descricao": "Centenas de anos atrás, os peregrinos escreveram sobre o enorme portão torii do Grande Santuário Kumano Hongu e o tamanho inacreditável do terreno do santuário. Embora destruído periodicamente por desastres naturais, foi sempre reconstruído. Isso até 1889, quando foi devastado por uma enchente. Hoje, tudo o que resta são dois pequenos santuários que marcam a localização original do Grande Santuário Kumano Hongu e o maior portão torii da terra – O Oyunohara Otorii."
+    },
+    {
+      "id": 10,
+      "idAlbum":8,
+      "URL": "https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/6/2020/03/Wakayama-Koyasan-Monk-1-copy-1024x732.jpg",
+      "descricao": "Os viajantes que optam por fazer uma estadia no templo no shukubo participam dos rituais e atividades diárias dos monges, como meditação e escrita de sutras. Você pode até comer shojin ryori, cozinha tradicional budista deliciosa e totalmente vegana. Ficar em um templo com os monges é uma das nossas principais experiências culturais para experimentar no Japão - uma para a lista de desejos, com certeza."
+    },
+    {
+      "id": 11,
+      "idAlbum":8,
+      "URL": "https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/6/2020/03/43_12_Otou-MatsuriLantern-Festival1.jpg",
+      "descricao": "Existem dezenas de festivais realizados em Wakayama ao longo do ano. Enquanto alguns são assuntos de cidades pequenas, outros trazem pessoas de todo o Japão. Um destaque é o Festival Oto Matsuri, realizado no dia 6 de fevereiro na cidade de Shingu."
+    },
+    {
+      "id": 12,
+      "idAlbum":8,
+      "URL": "https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/6/2020/03/Wakayama-Nachi-Falls-1-1024x683.jpg",
+      "descricao": "Ao lado de Nachi Taisha e do Templo Seiganto-ji, ficam as imponentes Cataratas de Nachi, que é a cachoeira mais alta do Japão, com uma cascata de 133 metros! A vista do pagode de três andares do Templo Seiganto-ji, com as poderosas quedas como pano de fundo, é especialmente pitoresca."
+    }
+  ]
+}
